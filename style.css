@@ -1,0 +1,25 @@
+.travel_mainDIV{
+    border:1px solid cyan;
+
+}
+.travel_mainDIV img{
+    width:100%;
+}
+
+.travel_mainDIV h5, .travel_mainDIV p{
+    margin:20px;
+}
+.movie_head{
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float:right;
+}
+
+.achievement_text span{
+    color: blueviolet;
+}
